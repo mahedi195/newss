@@ -1,5 +1,0 @@
-venv
-__pycache__
-*.pyc
-/news
-crawler_bot.log
