@@ -1,0 +1,5 @@
+crawl4ai
+streamlit
+playwright 
+google-generativeai
+schedule
