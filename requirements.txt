@@ -1,5 +1,5 @@
 crawl4ai
 streamlit
 playwright 
-google-generativeai
+google-generativeai==0.8.5
 schedule
