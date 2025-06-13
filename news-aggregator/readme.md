@@ -54,6 +54,8 @@ docker-compose down
 Build the Docker image:
 
 ```
+docker build -t news-aggregator .
+
 ```
 
 Run the bot:
